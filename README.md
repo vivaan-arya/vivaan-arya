@@ -1,8 +1,5 @@
 ### Hi, I'm Vivaan 👋
 
-<!--
-**vivaan-arya/vivaan-arya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a 13 year old mobile app developer and Web Developer. I'm currently scratching the surface of the world of programming and I am as excited as ever! Here are some things about me 😃 :
 
 🔭 I am doing many cool projects in Web Development and App Development
@@ -10,4 +7,4 @@ I am a 13 year old mobile app developer and Web Developer. I'm currently scratch
 📱 I'm currently doing an online course on App Development
 🌱 I’m learning Flutter and JavaScript
 🎬 I love watching Ford V Ferrari and Intestellar
--->
+
